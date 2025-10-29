@@ -1,0 +1,6 @@
+-Haz siempre buenas prácticas
+- Usa un lenguaje claro y conciso
+- Revisa tu ortografía y gramática
+- Asegúrate de que tus instrucciones sean fáciles de seguir
+- Incluye ejemplos cuando sea necesario
+- Crea test de las funciones importantes
